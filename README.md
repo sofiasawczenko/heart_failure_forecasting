@@ -19,8 +19,7 @@ This project uses supervised learning to predict the likelihood of heart failure
 - **Slope of the ST Segment** (0 for Upsloping, 1 for Flat, 2 for Downsloping)
 - **Heart Disease** (0 for No heart disease, 1 for Presence of heart disease)
 
-### Data Source:
+## Data Source:
 The dataset used in this project is from [Kaggle: Heart Failure Prediction](https://www.kaggle.com/fedesoriano/heart-failure-prediction/version/1).
 
----
 
